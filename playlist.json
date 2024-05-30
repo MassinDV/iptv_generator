@@ -25,7 +25,36 @@
     "launched": "2016-07-28",
     "closed": "2020-05-31",
     "replaced_by": "",
-    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717060551/ei/Z-9XZrvbCYCKkucP1Zq-kAY/ip/20.55.126.78/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9fzou8ajyofEpZRiZ_BCM-eeDl1mZOuAbFQlRkZnL840VNtNIgC4wuKoY6WY/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/5/pl/23/dover/11/pacing/0/keepalive/yes/mt/1717038488/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPmQrr_yzuAMdhgEWF5LIG_zm4VzT7fkrN3nT2NgVZfHAiBVC3Eow623Suh7jqqhDyyzxMERS4jKM631KDfhG9KscQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAJifjJNnrKNc7BRTrdtPcaJ_1-eUsHjNumBU4lWOXmIEAiEAqn41ktYkwNKkUctOVCJlCDr0hgCXIFPhwi1cqJ3ROxA%3D/playlist/index.m3u8",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717071562/ei/aRpYZum2PLn3sfIPoIav-AM/ip/52.238.27.208/id/zcWXboTnous.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-o097znz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f_pKK-bt9NMT4VfmqGfwR8_D7FSzDawFMgwVV7S470VVr5erJ5BbSut8YxM/vprv/1/playlist_type/DVR/mh/sM/mm/44/mn/sn-o097znz7/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/mt/1717049050/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKHXwmkuqRWOEEuigczp2IgSBmWusjMJgfXHYvo57DPpAiEAz050z78u35VFTtEkv3WzRkXQNxuoFSUsSIVIhI4AX_4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgVNNoQiJBBtaA6SuKV6LvNl9yM0eKVOOXwvCMFKP_zM0CICWYoNZ6gBI0qNR8aigliFWTNLwR1j2udbdN9yTUoR7U/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
+  },
+  {
+    "id": "",
+    "name": "Lofi Girl Radio",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717071563/ei/axpYZujkE_S7sfIP68qF6Aw/ip/52.238.27.208/id/4oStw0r33so.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-o097znsl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8KiQovE_4TdAN6rB2ptC2ZnHOYBVf23K6Orq7IOqv4xMjQkGJ7rngNIU4g/vprv/1/playlist_type/DVR/mh/7t/mm/44/mn/sn-o097znsl/ms/lva/mv/u/mvi/5/pl/24/dover/11/pacing/0/keepalive/yes/mt/1717049050/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgY2pvw9WbvnYLfx8MmgHoC0z7MHMz202nGcHcAkgJUZECIQDwPeb_v3Ax1vGJVZMOGJqDrCGNB1iQYyjKyUEmCnIxsw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgZpCRyXhc_jPeMrx6VAaMW_5qpTucx9qReXmlwV8HZNgCIQDDVWGfdeihYI2Bcy_kcD8Zq2F64Cm6ksNVSXJhcvIjpw%3D%3D/playlist/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"
   }
 ]
